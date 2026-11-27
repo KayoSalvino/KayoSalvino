@@ -1,6 +1,11 @@
 <h1 align="center">Kayo Salvino</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1500&color=2563EB&center=true&vCenter=true&width=520&lines=Engenharia+de+Software;Dados+e+IA;Ciberseguran%C3%A7a" alt="Áreas de interesse">
+</p>
+
+
+<p align="center">
   <b>Engenharia de Software · Dados/IA · Cibersegurança</b><br>
   Ciência da Computação (UFCG) · Tecnólogo em Segurança Cibernética
 </p>
@@ -21,7 +26,7 @@
 
 ## Sobre mim
 
-Graduando em Ciência da Computação pela UFCG (conclusão prevista em junho/2028) e tecnólogo em Segurança Cibernética. Tenho base em Python, SQL, Java e algoritmos, com projetos acadêmicos em bancos de dados relacionais, grafos e testes automatizados.
+Graduando em Ciência da Computação pela UFCG e tecnólogo em Segurança Cibernética. Tenho base em Python, SQL, Java e algoritmos, com projetos acadêmicos em bancos de dados relacionais, grafos e testes automatizados.
 
 
 ## Tecnologias
