@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="[LINK_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:[SEU_EMAIL]"><img src="https://img.shields.io/badge/E--mail-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+   <a href="mailto:[SEU_EMAIL]"><img src="https://img.shields.io/badge/E--mail-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
 <p align="center">
